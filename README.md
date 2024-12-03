@@ -1,5 +1,6 @@
 # Practics
 Комнады чтобы отправить изменения с ПК на гит:
+
   !apt-get install -qq git
   
   from getpass import getpass
